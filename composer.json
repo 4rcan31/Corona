@@ -3,7 +3,7 @@
     "description": "Ui with php",
     "autoload": {
         "psr-4": {
-            "4rcan31\\Corona\\": "src/"
+            "Arcan31\\Corona\\": "src/"
         }
     },
     "authors": [
